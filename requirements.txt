@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+split-folders
+torch-summary
+scikit-learn
+termcolor
+tabulate
